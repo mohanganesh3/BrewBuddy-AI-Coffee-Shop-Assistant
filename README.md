@@ -1,7 +1,7 @@
 
 # Coffee Shop Customer Service Chatbot 🚀☕️
 
-Welcome to the Coffee Shop Customer Service Chatbot project! This repository contains the code, resources, and instructions to build an AI-powered chatbot designed to enhance customer experiences in a coffee shop app. Leveraging the power of LLMs (Large Language models), Natural Language Processing (NLP), and RunPod's infrastructure, this chatbot can assist with taking orders, answering detailed menu queries, and providing personalized product recommendations—all within a React Native mobile app.
+Welcome to the **Coffee Shop Customer Service Chatbot project!** This repository contains the code, resources, and instructions to build an AI-powered chatbot designed to enhance customer experiences in a coffee shop app. Leveraging the power of LLMs (Large Language models), Natural Language Processing (NLP), and RunPod's infrastructure, this **chatbot can assist with taking orders**, **answering detailed menu queries**, and **providing personalized product recommendations**—all within a React Native mobile app.
 
 # 🎯 Project Overview
 The goal of this project is to create a smart, **agent-based chatbot** that can:
@@ -11,14 +11,6 @@ The goal of this project is to create a smart, **agent-based chatbot** that can:
 * Guide customers through a seamless order process, ensuring accurate and structured order details.
 * Block irrelevant or harmful queries using a Guard Agent for safe and relevant interactions.
 
-## 🔧 What You'll Learn
-Through this project, you will gain hands-on experience in:
-* Deploying your personal LLM with RunPod
-* Deploying an agent-based system with specialized agents like Order Taking, Details, and Guard agents.
-* Setting up a vector database for storing coffee shop menu and product information.
-* Implementing Retrieval-Augmented Generation (RAG) for detailed and accurate responses.
-* Training and deploying a recommendation engine.
-* Building a React Native app that integrates this powerful chatbot.
 
 ## 🧠 Chatbot Agent Architecture
 ![C11FAB24-8CE6-486F-B14C-66CBD169084F_1_201_a copy](https://github.com/user-attachments/assets/f382bd31-6d8a-44bc-866f-aa2da87c11d7)
@@ -75,13 +67,19 @@ The React Native Coffee Shop App serves as the front-end interface for customers
 │       ├── recommendation_engine_training.ipynb    # Trains recommendation engine 
 ```
 
-## 🚀 Getting Started
-Each folder has their own getting started section. So this way we can deploy the front end, backend and setup individually. 
+# 🎥 Demo Videos
+###To understand how the chatbot works in action, check out the demo videos:
+## Demo 1: Customer placing an order and receiving product recommendations.
+
+## Demo 2: Chatbot providing personalized product recommendations
+
+## Demo 3: Guard Agent blocking irrelevant queries
+
 
 ## 🔗 Refrence Links
-* [RunPod](https://rebrand.ly/Runpod-Abdullah): RunPod Official Site - Infrastructure for deploying and scaling machine learning models.
+* [RunPod](https://rebrand.ly/Runpod-Abdullah): RunPod Official Site - Infrastructure for deploying.
 * [Kaggle Dataset]([https://www.kaggle.com/datasets/ylchang/](https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113)): Source of the dataset used for training the recommendation engine.
 * [Figma app design](https://www.figma.com/design/PKEMJtsntUgQcN5xAIelkx/Coffee-Shop-Mobile-App-Design-(Community)?node-id=421-1221&node-type=FRAME&t=bakGV2g59KQ7cPBi-0): - The design mockups for the coffee shop app, providing a visual guide for the user interface and experience.
-* [Hugging Face](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct): Hugging Face Models - Repository for Llama LLms, a state-of-the-art NLP model used in our chatbot.
+* [Google Gemini Pro]([https://aistudio.google.com/app/apikey]): Google’s Generative AI model, used for powering the conversational abilities of the chatbot
 * [Pinecone](https://docs.pinecone.io/guides/get-started/quickstart): Pinecone Documentation - Documentation for the vector database used in the project.
 * [Firebase](https://firebase.google.com/docs): Firebase Documentation - Comprehensive guide for using Firebase to manage app data for the coffee shop app.
