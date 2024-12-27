@@ -71,9 +71,15 @@ The React Native Coffee Shop App serves as the front-end interface for customers
 ### **To understand how the chatbot works in action, check out the demo videos:**
 ## Demo 1: Customer placing an order and receiving product recommendations.
 
+
 https://github.com/user-attachments/assets/565908af-bf7b-4162-a12c-94046504e546
 
+
 ## Demo 2: Chatbot providing personalized product recommendations
+
+
+https://github.com/user-attachments/assets/a9c7f4b6-afd4-4789-b114-ef1fc4a2216a
+
 
 ## Demo 3: Guard Agent blocking irrelevant queries
 
