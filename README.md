@@ -84,6 +84,9 @@ https://github.com/user-attachments/assets/a9c7f4b6-afd4-4789-b114-ef1fc4a2216a
 ## Demo 3: Guard Agent blocking irrelevant queries
 
 
+https://github.com/user-attachments/assets/7835e846-4643-484d-a6fe-2780cf370907
+
+
 ## 🔗 Refrence Links
 * [RunPod](https://rebrand.ly/Runpod-Abdullah): RunPod Official Site - Infrastructure for deploying.
 * [Kaggle Dataset]([https://www.kaggle.com/datasets/ylchang/](https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113)): Source of the dataset used for training the recommendation engine.
